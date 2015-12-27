@@ -1,5 +1,5 @@
 # Enable/Disable Built-In Features
-aha_board: true
+aha_board: false
 question_board: false
 
 # Custom Sidebar Links to External Sites.
