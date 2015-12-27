@@ -1,4 +1,4 @@
-# KIEI-924 Fall 2015 Final Project
+# KIEI-924 Spring 2015 Final Project
 
 ### Due Date: Monday, December 7
 

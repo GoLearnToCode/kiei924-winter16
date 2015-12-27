@@ -44,7 +44,7 @@ Create a folder called *code* in your home directory. (What's the home directory
 
 Finally, download the following and unzip it into your code folder. **Rename the folder (which will probably be called "profile-master") to "profile".** When you're done, you should have a folder called "profile" in your *code* directory.
 
-https://github.com/kiei924-fall15/profile/archive/master.zip
+https://github.com/kiei924-winter16/profile/archive/master.zip
 
     Home Directory
     -- profile
@@ -85,7 +85,7 @@ Create a folder called *code* in the root of your C:\ drive.
  
 Finally, download the following and unzip it into your code folder. **Rename the folder (which will probably be called "profile-master") to "profile".** When you're done, you should have a folder called "profile" in your *code* directory.
  
-https://github.com/kiei924-fall15/profile/archive/master.zip
+https://github.com/kiei924-winter16/profile/archive/master.zip
 
     c:\code
     -- profile
