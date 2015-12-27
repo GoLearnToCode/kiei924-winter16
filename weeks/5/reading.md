@@ -1,0 +1,1 @@
+- [Week 5 Slides](https://www.dropbox.com/s/gq428lcfeeirl2h/kiei924-sql.pdf?dl=0)

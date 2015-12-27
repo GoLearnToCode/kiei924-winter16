@@ -1,0 +1,3 @@
+- Objects/Homework Review
+- The document object and DOM manipulation
+- jQuery helper methods, DOM manipulation, and events

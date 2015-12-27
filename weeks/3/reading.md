@@ -1,0 +1,1 @@
+- [Week 3 Survival Guide](https://www.dropbox.com/s/qsmaobz59db6km0/KIEI924SurvivalWeek3.pdf?dl=0)

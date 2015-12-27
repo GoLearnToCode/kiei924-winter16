@@ -1,0 +1,6 @@
+- [Week 4 Survival Guide](https://www.dropbox.com/s/is250tyoh0unnvn/KIEI924SurvivalWeek4.pdf?dl=0)
+- [jQuery DOM Manipulation](http://api.jquery.com/category/manipulation/)
+- [jQuery Events](http://api.jquery.com/category/events/)
+- [jQuery Effects](http://api.jquery.com/category/effects/)
+- [jQuery Traversing](http://api.jquery.com/category/traversing/)
+- [Codepen](http://codepen.io/pens/)
