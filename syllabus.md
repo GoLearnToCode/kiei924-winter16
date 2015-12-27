@@ -1,5 +1,5 @@
 # KIEI-924 Introduction to Software Development
-Winter Quarter 2015
+Winter Quarter 2016
 
 ## Course Description
 Instructor: Brian Eng
@@ -38,19 +38,6 @@ Students must build a project of their choosing throughout the quarter as their 
 
 ### Week 2
 
-* Grab public code using git clone
-* Represent structured information using markup (HTML)
-  * HTML5 page structure and elements
-  * Learn the difference between block and inline elements
-  * Add images and embed media
-* Apply visual styling with CSS
-  * Colors
-  * Borders
-  * Margin
-  * Padding
-
-### Week 3
-
 * Content Layout
   * Navigation
   * Headers and Footers
@@ -60,15 +47,24 @@ Students must build a project of their choosing throughout the quarter as their 
 * Bootstrap
   * Grid system
   * Common elements
+
+### Week 3
+
+- Sanity Check
+- Real hosting
+  - Registering a domain
+  - DNS
+- Frontend vs. Backend
+- Introduction to Javascript
   
 ### Week 4
 
-* Understand the basics of HTTP
-* Connect pages and create apps with forms
+- Objects/Homework Review
+- The document object and DOM manipulation
+- jQuery helper methods, DOM manipulation, and events
 
 ### Week 5
 
-* Command-line-fu
-* Intro to Javascript
-* Integration of third-party scripts
-* What's Next
+- SQL
+- The reason we want to learn SQL, how businesses use it, the landscape
+- Basic queries - SELECT, WHERE, JOIN
