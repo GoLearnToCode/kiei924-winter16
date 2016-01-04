@@ -2,7 +2,7 @@
 
 In case you didn't before the first class, [follow the instructions to install all necessary development tools](/kiei924-fall15/workbook/setup).
 
-# Due Next Thursday by 11:59PM
+# Due Next Sunday by 11:59PM
 
 Practice what we did in class.  You should be able to:
 
