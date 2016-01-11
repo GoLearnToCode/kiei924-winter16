@@ -1,4 +1,4 @@
-# Due Next Thursday by 11:59PM
+# Due Next Sunday by 11:59PM
 
 Continue working on your username.github.io project. Create a new index.html page and add visual styles that apply good design principles and that are responsive across a variety of devices and platforms. (You should rename your original index.html, if you want to keep it.)
 
@@ -18,4 +18,4 @@ You should:
   - Alert
   - Etc.
 
-Commit and sync your changes to your Github account no later than 11:59pm on Thursday.
+Commit and sync your changes to your Github account no later than 11:59pm on Sunday.
