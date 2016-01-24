@@ -1,6 +1,6 @@
-# KIEI-924 Spring 2015 Final Project
+# KIEI-924 Winter 2016 Final Project
 
-### Due Date: Monday, December 7
+### Due Date: Sunday, February 7, 11:59pm
 
 **Core Requirements (30 points total)**
 
@@ -19,4 +19,4 @@
     * Recipes or restaurants to try
     * Anything else! 
 
-Commit and sync your code to your username.github.io project by 11:59pm on Monday, December 7.
+Commit and sync your code to your username.github.io project by 11:59pm on Sunday, February 7.
